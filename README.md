@@ -1,5 +1,5 @@
 ## Scientific Computing with Python (FreeCodeCamp)
-The following projects are for the Data Analysis with Python certfication course from [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python "FreeCodeCamp").
+The following projects are for the Scientific Computing with Python certfication course from [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python "FreeCodeCamp").
 
 
 Projects include:  
